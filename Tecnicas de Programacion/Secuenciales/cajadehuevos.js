@@ -1,0 +1,15 @@
+console.log("Tomar una caja de huevos vacia "); 
+console.log(" abrir la caja "); 
+console.log(" abrir la bolsa que contiene los huevos"); 
+console.log("agarrar un huevo "); 
+console.log("colocarlo dentro de la caja "); 
+console.log("agarrar un huevo"); 
+console.log("colocarlo dentro de la caja "); 
+console.log("agarrar un huevo "); 
+console.log("colocarlo dentro de la caja "); 
+console.log("agarrar un huevo "); 
+console.log ("colocarlo dentro de la caja"); 
+console.log ("agarrar un huevo"); 
+console.log ("colocarlo dentro de la caja"); 
+console.log ("cerrar la caja"); 
+console.log (" guardar"); 
